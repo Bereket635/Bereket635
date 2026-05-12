@@ -29,13 +29,16 @@ I'm a Grade 11 student from Ethiopia who is passionate about cybersecurity, Pyth
 - Log analysis and defensive security tools
 - Building a strong GitHub portfolio
 
-## Skills
-- Python
-- HTML, CSS, JavaScript
-- Bash
-- Linux / Termux
-- Basic web development
-- Problem solving
+## 🛠 Skills & Tools
+
+<p align="center">
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFDD54" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=White" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=White" /></a>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=White" /></a>
+  <a href="https://kalilinux.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=White" /></a>
+</p>
 
 ## Goals
 - Build useful security tools
