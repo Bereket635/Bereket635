@@ -46,8 +46,18 @@ I'm a Grade 11 student from Ethiopia who is passionate about cybersecurity, Pyth
 - Contribute to open-source projects
 - Create projects that solve real problems
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bereket635&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
 
-## Contact
-- GitHub: [Bereket635](https://github.com/Bereket635)
+<p align="center">
+  <a href="https://github.com/Bereket635">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bereket635&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Bereket635">
+    <img src="https://streak-stats.demolab.com?user=Bereket635&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/Bereket635">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket635&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+  </a>
+</p>
+
