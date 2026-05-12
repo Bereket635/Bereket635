@@ -1,4 +1,4 @@
-# Hi, I'm Bereket 👋
+# Hi there! I'm Bereket
 
 I'm a Grade 11 student from Ethiopia who is passionate about cybersecurity, Python programming, Android development, and building practical tech projects.
 
@@ -17,10 +17,15 @@ I'm a Grade 11 student from Ethiopia who is passionate about cybersecurity, Pyth
 </p>
 ## About Me
 - 🔐 Interested in cybersecurity and blue team tools
+
 - 💻 Learning Python, web development, and app development
+
 - 📱 Working with Android, Termux, and Linux tools
+
 - 🧠 Enjoy solving problems and building useful projects
+
 - 🌍 Always exploring free resources to grow my skills
+
 
 ## Current Focus
 - Python projects
