@@ -1,6 +1,6 @@
-# Hi there! I'm Bereket
+# Hi there! My name is Bereket Kasahun
 
-I'm a Grade 11 student from Ethiopia who is passionate about cybersecurity, Python programming, Android development, and building practical tech projects.
+I'm a Grade 12 student from Ethiopia who is passionate about cybersecurity, Python programming, Android development, and building practical tech projects.
 
 ## Contact Me
 
