@@ -43,7 +43,7 @@ I'm a Grade 12 student from Ethiopia who is passionate about cybersecurity, Pyth
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=White" /></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=White" /></a>
   <a href="https://kalilinux.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=White" /></a>
-<img src="https://bashlogo.com/img/logo/png/full_colored_light.png>
+
 </p>
 
 ## Goals
